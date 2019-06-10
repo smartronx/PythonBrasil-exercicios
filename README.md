@@ -1,5 +1,5 @@
 # Python3-Exercícios
-Solução de Exercícios de python da lista https://wiki.python.org.br/ListaDeExerciciosProjetos
+Solução de Exercícios de python da lista https://wiki.python.org.br/ListaDeExercicios
 
 Pretendo com esse trabalho fornecer a minha forma pessoal de resolver os exercícios propostos pela Python Brasil
 Usarei a versão Python 3.6.7 como interpretador para os exercícios.
