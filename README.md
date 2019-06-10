@@ -1,4 +1,4 @@
-# Python-Exercícios
+# Python3-Exercícios
 Solução de Exercícios de python da lista https://wiki.python.org.br/ListaDeExerciciosProjetos
 
 Pretendo com esse trabalho fornecer a minha forma pessoal de resolver os exercícios propostos pela Python Brasil
