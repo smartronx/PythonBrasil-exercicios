@@ -1,3 +1,5 @@
+#Usei a versão do  Python 3.6.7 para fazer o exercício.
+
 #2-Faça um Programa que peça um número e então mostre a mensagem 
 #O número informado foi [número].
 
